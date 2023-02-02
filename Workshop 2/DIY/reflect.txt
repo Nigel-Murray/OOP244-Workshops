@@ -1,0 +1,9 @@
+Nigel Murray 104701222 Reflection
+
+What I had learned in this workshop includes a few things. The first being more of the c++ language and using cin
+and cout. I had used printf in the last workshop only because I was comfortable with it but I now know this is
+much nicer to work with. The second is de-allocation of memory. The importance of having no memory leaks after 
+using pointers is important to not flood the memory with garbage. The steps of new Pointer, delete Pointer, and
+nullptr Pointer will definitely be something I need to remeber I can see. Lastly the overloading of functions.
+Having two functions with the same name but different parameters is going to be something that will take time for
+me to remember is a thing but the implementation seems very straight forward.

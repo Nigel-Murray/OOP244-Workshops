@@ -18,6 +18,18 @@ namespace sdds {
     
        
     void read(char* str, int len);
+
+    void EmptyRecord(Customers& tweeters);
+
+    void EmptyRecord(CustomersRecord& tweets);
+
+    bool read(Customers& rec);
+
+    void addCustomer(CustomersRecord& t_rec, const Customers& c_rec);
+
+    void display(const Customers& c_rec);
+
+    void display(const CustomersRecord& t_rec);
    
     // to be completed
 
